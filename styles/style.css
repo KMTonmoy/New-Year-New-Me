@@ -140,7 +140,7 @@ section {
   height: 300px;
   border-radius: 8px;
   background: linear-gradient(90deg, #005fac 0%, rgba(0, 95, 172, 0) 100%),
-    url("/assets/watch.png");
+    url("../assets/watch.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
