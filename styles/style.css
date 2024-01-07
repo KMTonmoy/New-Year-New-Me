@@ -217,7 +217,7 @@ footer {
   font-weight: 600;
 }
 
-/* For WebKit browsers (Chrome, Safari) */
+
 ::-webkit-scrollbar {
   width: 8px;
   border-radius: 10px;
@@ -231,5 +231,5 @@ footer {
 
 
 ::-webkit-scrollbar-track {
-  background-color: rgba(0, 95, 172, 0); /* Color of the scrollbar track (the area behind the thumb) */
+  background-color: rgba(0, 95, 172, 0); 
 }
